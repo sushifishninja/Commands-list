@@ -15,7 +15,7 @@
 
 !tip - Tip info
 
-!tu- Twitch United info
+!LITS - Community info!
 
 !uptime- how long have we been going
 
@@ -29,4 +29,4 @@
 
 !social- social info
 
-!welcome - Welcome friend!
+!merch - Check out the insane merch store YO!
